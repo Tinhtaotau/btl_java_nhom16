@@ -1,1 +1,14 @@
 Do bọn em không biết dùng git lên đẩy lên cũng 1 lượt ạ. Mong thầy thông cảm giúp bọn em.
+Đoàn Văn Tỉnh(Nhóm trưởng):
+-Tài liệu đặc tả yêu cầu người dùng.
+-Thiết kế giao diện quản lý nhân viên, quản lý tài khoản, Quản lý kho hàng, quản lý tình trạng hàng, quản lý hóa đơn.
+-Phân tích hệ thống: use case đăng nhập, use case quản lý Câu Lạc Bộ, Quản lý Chi tiết học viên và Quản lý thành tích. -Thiết kế Cơ Sở Dữ Liệu(làm chung)
+-Thực hiện cài đặt chức năng quản lý nhân viên , quản lý tài khoản, quản lý kho hàng, quản lý tình trạng hàng, quản lý hóa đơn.
+Nguyễn Thành Vinh:
+Giới thiệu.
+-Thiết kế giao diện đăng nhập, giao diện câu lạc bộ,giao diện học viên, giao diện thành tích.
+-Phân tích hệ thống: use case quản lý hóa đơn, use case quản lý Kho hàng, quản lý tình trạng hàng.
+-Phân tích hệ thống: use case quản lý nhân viên, use case quản lý Tài khoản.
+-Thiết kế Cơ Sở Dữ Liệu(làm chung)
+Thực hiện cài đặt chức năng đăng nhập, quản lý câu lạc bộ,quản lý học viên, quản lý thành tích.
+
